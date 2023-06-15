@@ -1,17 +1,27 @@
 # SpamWa
 <img src="spam 1.png">
+
 Spamwa is a simple whats app spamming pythone tool that uses a pre built theme for whats app spamming
 
 
+
 installatiin process
+
 $ pkg install python
+
 $ pkg install git
+
 $ python3 -m pip install requests
-$ git clone https://github.com/krypton-byte/SpamWa
+
+$ git clone https://github.com/ShortTemperd007/Spamwa.git
+
 $ cd SpamWa
+
 $ python3 spam.py
 
+
 Screen shot of usage
+
 <img src="spam 2.png">
 
 For more infomation contact me on
